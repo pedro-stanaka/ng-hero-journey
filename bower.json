@@ -15,5 +15,11 @@
     "app/assets/vendor",
     "test",
     "tests"
-  ]
+  ],
+  "resolutions": {
+    "bootstrap": "v4.0.0-alpha.3"
+  },
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.3"
+  }
 }
